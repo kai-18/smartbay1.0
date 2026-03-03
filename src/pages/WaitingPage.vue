@@ -230,14 +230,12 @@ const columns = [
     name: 'telefono',
     label: 'Telefono',
     field: row => row.telefono,
-    sortable: true,
     align: 'left'
   },
   {
     name: 'targa',
     label: 'Targa',
     field: row => row.targa,
-    sortable: true,
     align: 'left'
   },
   {
