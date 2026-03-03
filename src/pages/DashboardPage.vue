@@ -1,3 +1,3 @@
 <template>
-  <h1>this is a dashboard page</h1>
+  <h1>Cruscotto</h1>
 </template>

@@ -52,7 +52,7 @@ const linksList = [
     link: '/',
   },
   {
-    title: 'In attesa',
+    title: 'Gestione Attese',
     icon: 'access_time',
     link: '/waiting'
   },
