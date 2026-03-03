@@ -2,7 +2,6 @@
   <q-item
     clickable
     tag="a"
-    target="_blank"
     :href="props.link"
   >
     <q-item-section
@@ -24,11 +23,6 @@ const props = defineProps({
   title: {
     type: String,
     required: true
-  },
-
-  caption: {
-    type: String,
-    default: ''
   },
 
   link: {
